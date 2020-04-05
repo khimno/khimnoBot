@@ -1,3 +1,5 @@
+## No i will not update this for the latest discord.js
+
 2 4 6 8 i regret doing anything computer related
 
 > if i publish this i will be shamed for ever, its really that bad
