@@ -1,11 +1,3 @@
 ## No i will not update this for the latest discord.js
 
-2 4 6 8 i regret doing anything computer related
-
-> if i publish this i will be shamed for ever, its really that bad
-
-> but also i dont want to be "that guy"
-
-> who keeps all his stuff private
-
-its a funny dilemma im in here, isnt it?
+this bot has been abandoned for now dont expect any updates
